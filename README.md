@@ -1,7 +1,7 @@
 # Italian_boundaries
 Archivio in formato Geojson e wkt dei confini Italiani. 
 
-..* Comuni
+..* Comuni, Province e Regioni
 
 Ultimo aggiornamento 1 gennaio 2018
 Fonte Istat: https://www.istat.it/it/archivio/209722
